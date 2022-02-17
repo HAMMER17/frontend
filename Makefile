@@ -1,2 +1,8 @@
 install:
 	npm ci
+
+app:
+	node bin/app.js
+
+publish:
+	npm publish --dry-run
