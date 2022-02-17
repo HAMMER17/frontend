@@ -9,3 +9,6 @@ publish:
 
 lint:
 	npx eslint .
+
+calc:
+	node bin/calc.js

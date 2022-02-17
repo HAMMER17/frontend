@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "app": "bin/app.js"
+    "app": "bin/app.js",
+    "calc": "bin/calc.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
