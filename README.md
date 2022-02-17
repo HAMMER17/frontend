@@ -3,3 +3,5 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/de65ede87939ccc48d13/test_coverage)](https://codeclimate.com/github/HAMMER17/frontend/test_coverage)
 ![example workflow](https://github.com/HAMMER17/frontend/actions/workflows/app.yml/badge.svg)
 
+[![asciicast](https://asciinema.org/a/469834.svg)](https://asciinema.org/a/469834)
+

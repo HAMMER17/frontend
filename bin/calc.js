@@ -15,7 +15,7 @@ const calc = () => {
         const number = `${num1} ${k} ${num2}`
         console.log(`Вопрос: ${number}`)
 
-        let sum = Math.ceil()
+        let sum = 0;
         switch (k) {
             case '+':
                 sum = num1 + num2
@@ -33,10 +33,11 @@ const calc = () => {
         console.log(sum)
         const answer = read.question('Ответ: ')
         if (sum == answer) {
-            console.log('ok')
+            console.log(`Правильно ${sum}`)
         } else {
-            console.log('no')
+            console.log(`Не угадал правильный ответ ${sum}`)
         }
     }
+    console.log(`Congratulations ${name}`)
 }
 calc()
