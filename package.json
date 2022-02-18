@@ -12,7 +12,8 @@
   "license": "ISC",
   "bin": {
     "app": "bin/app.js",
-    "calc": "bin/calc.js"
+    "calc": "bin/calc.js",
+    "del": "bin/del.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"

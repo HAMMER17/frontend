@@ -12,3 +12,6 @@ lint:
 
 calc:
 	node bin/calc.js
+
+del:
+	node bin/del.js
