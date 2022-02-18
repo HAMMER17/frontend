@@ -15,3 +15,12 @@ calc:
 
 del:
 	node bin/del.js
+
+prog:
+	node bin/prog.js
+
+prost:
+	node bin/prost.js
+
+fix:
+	npx eslint --fix .

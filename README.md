@@ -4,4 +4,5 @@
 ![example workflow](https://github.com/HAMMER17/frontend/actions/workflows/app.yml/badge.svg)
 
 [![asciicast](https://asciinema.org/a/469834.svg)](https://asciinema.org/a/469834)
+[![asciicast](https://asciinema.org/a/470019.svg)](https://asciinema.org/a/470019)
 
