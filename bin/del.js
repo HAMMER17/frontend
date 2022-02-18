@@ -30,3 +30,4 @@ for (let i = 0; i < 3; i++) {
     }
     del1(num1, num2)
 }
+console.log(`Молодец ${name}`)
