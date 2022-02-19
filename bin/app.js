@@ -12,7 +12,7 @@ const game = () => {
     const num = random(50, 2);
     console.log(`Вопрос ${num}`);
     const answer = read.question('Ответ: ');
-    const correct = (num % 2 === 0) ? 'yes' : 'no';
+    const correct = num % 2 === 0 ? 'yes' : 'no';
 
     if (answer === correct) {
       console.log(`Правильно ${correct}`);
@@ -21,3 +21,4 @@ const game = () => {
   console.log(`Молодец ${name}`);
 };
 game();
+export default game;

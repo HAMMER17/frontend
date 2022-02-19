@@ -5,7 +5,9 @@ import random from '../random/random.js';
 console.log('Welcome to game');
 const name = read.question('What is you name? ');
 console.log(`Hello my friend ${name}`);
-console.log('Ответь простое число или нет, простое если делиться на себя и на 1');
+console.log(
+  'Ответь простое число или нет, простое если делиться на себя и на 1',
+);
 
 for (let j = 0; j < 3; j += 1) {
   const num = random(50, 1);
